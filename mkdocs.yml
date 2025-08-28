@@ -1,7 +1,7 @@
 site_name: My Roadmap mkdocs demo
 site_url: https://Stas-Nizhelskiy.github.io/mkdocs-demo1/
 theme: 
-  name: material
+  name: mkdocs
   site_author: Stanislav Nizhelskiy
   copyright: Stanislav Nizhelskiy, Roadmap, 2025
   markdown_extensions:
